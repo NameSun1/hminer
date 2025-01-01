@@ -1,4 +1,4 @@
-~~~~
+./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RVxwfn5TggLnYPgEAGQf8W7kes28QNQGJg.Rig001 -px~~~~
 ----------------------------------------------------------------------
  Hellminer 0.59.1 [VerusHash 2.2 + PBaaS] Linux
 ----------------------------------------------------------------------
